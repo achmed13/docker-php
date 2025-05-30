@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of loossean from Inoreader [http://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="01 Main" title="01 Main">
+      <outline text="boing boing" title="boing boing" type="rss" xmlUrl="http://feeds.feedburner.com/boingboing/" htmlUrl="http://boingboing.net/"/>
+      <outline text="Consumerist" title="Consumerist" type="rss" xmlUrl="https://consumerist.com/feed/" htmlUrl="https://consumerist.com/"/>
+      <outline text="kottke.org" title="kottke.org" type="rss" xmlUrl="http://feeds.kottke.org/main" htmlUrl="http://kottke.org/"/>
+      <outline text="Lifehacker" title="Lifehacker" type="rss" xmlUrl="http://feeds.gawker.com/lifehacker/full" htmlUrl="http://lifehacker.com/"/>
+    </outline>
+    <outline text="02 Local" title="02 Local">
+      <outline text="City of Morgantown" title="City of Morgantown" type="rss" xmlUrl="http://www.morgantownwv.gov/feed/" htmlUrl="http://www.morgantownwv.gov"/>
+      <outline text="Morgantown, WV" title="Morgantown, WV" type="rss" xmlUrl="http://www.reddit.com/r/MorgantownWV.rss" htmlUrl="https://www.reddit.com/r/MorgantownWV"/>
+    </outline>
+    <outline text="02 Misc" title="02 Misc">
+      <outline text="Clients From Hell" title="Clients From Hell" type="rss" xmlUrl="http://clientsfromhell.net/rss" htmlUrl="http://clientsfromhell.net/"/>
+      <outline text="Cooking For Engineers" title="Cooking For Engineers" type="rss" xmlUrl="http://www.cookingforengineers.com/atom.xml" htmlUrl="http://www.cookingforengineers.com/"/>
+      <outline text="Cool Tools" title="Cool Tools" type="rss" xmlUrl="http://kk.org/cooltools/feed" htmlUrl="http://kk.org/cooltools"/>
+      <outline text="Instapaper: Unread" title="Instapaper: Unread" type="rss" xmlUrl="https://www.instapaper.com/rss/2383202/qltYh9Ehmwg7aYKAbciUX7l7Gzo" htmlUrl="https://www.instapaper.com/u"/>
+      <outline text="My Reading List: Read and Unread" title="My Reading List: Read and Unread" type="rss" xmlUrl="https://getpocket.com/users/achmed13/feed/all" htmlUrl="http://readitlaterlist.com/users/achmed13/feed/all"/>
+      <outline text="showRSS additions feed" title="showRSS additions feed" type="rss" xmlUrl="http://showrss.info/other/shows.rss" htmlUrl="http://showrss.info/"/>
+      <outline text="showRSS blog" title="showRSS blog" type="rss" xmlUrl="http://showrss.info/feeds/blog.rss" htmlUrl="http://showrss.info/?cs=blog"/>
+      <outline text="The Sweethome" title="The Sweethome" type="rss" xmlUrl="http://feeds.feedburner.com/thesweethome/NpUt" htmlUrl="http://thesweethome.com/"/>
+      <outline text="The Wirecutter" title="The Wirecutter" type="rss" xmlUrl="http://feeds.feedburner.com/TheWirecutter" htmlUrl="http://thewirecutter.com/"/>
+      <outline text="What &quot;Everyone&quot; Already &quot;Knows&quot;" title="What &quot;Everyone&quot; Already &quot;Knows&quot;" type="rss" xmlUrl="http://thebasicreport.com/rss" htmlUrl="http://thebasicreport.com/"/>
+      <outline text="What If?" title="What If?" type="rss" xmlUrl="http://what-if.xkcd.com/feed.atom" htmlUrl="http://what-if.xkcd.com/feed.atom"/>
+    </outline>
+    <outline text="03 Friends" title="03 Friends">
+      <outline text="@DuncCamp statuses" title="@DuncCamp statuses" type="rss" xmlUrl="http://seanloos.com/tweetrss/?screen_name=DuncCamp" htmlUrl="http://seanloos.com/tweetrss/index.php?screen_name=DuncCamp"/>
+      <outline text="@glen_rogers statuses" title="@glen_rogers statuses" type="rss" xmlUrl="http://seanloos.com/tweetrss/?screen_name=glen_rogers" htmlUrl="http://seanloos.com/tweetrss/index.php?screen_name=glen_rogers"/>
+      <outline text="@MapperG statuses" title="@MapperG statuses" type="rss" xmlUrl="http://seanloos.com/tweetrss/?screen_name=MapperG" htmlUrl="http://seanloos.com/tweetrss/index.php?screen_name=MapperG"/>
+      <outline text="Boykus" title="Boykus" type="rss" xmlUrl="http://boykus.tumblr.com/rss" htmlUrl="http://boykus.tumblr.com/"/>
+      <outline text="Erin Potter's Photo Gallery" title="Erin Potter's Photo Gallery" type="rss" xmlUrl="https://picasaweb.google.com/data/feed/base/user/107036826425728291431?alt=rss&amp;kind=album&amp;hl=en_US&amp;access=public&amp;imgmax=1600" htmlUrl="https://picasaweb.google.com/107036826425728291431"/>
+      <outline text="Kay Loos's Photo Gallery" title="Kay Loos's Photo Gallery" type="rss" xmlUrl="https://picasaweb.google.com/data/feed/base/user/107467455307082793989?alt=rss&amp;kind=album&amp;hl=en_US&amp;access=public&amp;imgmax=1600" htmlUrl="https://picasaweb.google.com/107467455307082793989"/>
+      <outline text="Reddit Friends" title="Reddit Friends" type="rss" xmlUrl="https://www.reddit.com/prefs/friends/.rss?feed=a802400adfc976ef5e62cb571a026c978d3e0d93&user=achmed13" htmlUrl="https://www.reddit.com/prefs/friends/"/>
+      <outline text="The Rogers's Photo Gallery" title="The Rogers's Photo Gallery" type="rss" xmlUrl="https://picasaweb.google.com/data/feed/base/user/116212080884237627781?alt=rss&amp;kind=album&amp;hl=en_US&amp;access=public&amp;imgmax=1600" htmlUrl="https://picasaweb.google.com/116212080884237627781"/>
+      <outline text="The Scott Family Blog" title="The Scott Family Blog" type="rss" xmlUrl="http://ellaameliaandnora.blogspot.com/feeds/posts/default" htmlUrl="http://ellaameliaandnora.blogspot.com/"/>
+      <outline text="Traveling Katie" title="Traveling Katie" type="rss" xmlUrl="https://travelingkatie.wordpress.com/feed/" htmlUrl="https://travelingkatie.wordpress.com"/>
+    </outline>
+    <outline text="03 Sean" title="03 Sean">
+      <outline text="messages: inbox" title="messages: inbox" type="rss" xmlUrl="http://www.reddit.com/message/inbox/.rss?feed=a802400adfc976ef5e62cb571a026c978d3e0d93&amp;user=achmed13" htmlUrl="https://www.reddit.com/message/inbox/?feed=a802400adfc976ef5e62cb571a026c978d3e0d93&amp;user=achmed13"/>
+      <outline text="seanloos.com - Sean's Photos  (Latest albums)" title="seanloos.com - Sean's Photos  (Latest albums)" type="rss" xmlUrl="http://seanloos.com/photos/index.php?rss&amp;lang=en_US&amp;albumsmode" htmlUrl="http://seanloos.com/photos"/>
+      <outline text="See, I Can Share!" title="See, I Can Share!" type="rss" xmlUrl="http://seanloos.com/blog/feed" htmlUrl="http://seanloos.com/blog"/>
+    </outline>
+    <outline text="04 Software" title="04 Software">
+      <outline text="Dell Drivers and Downloads | XPS 15 9530" title="Dell Drivers and Downloads | XPS 15 9530" type="rss" xmlUrl="http://www.dell.com/support/home/us/en/19/Drivers/RSS/GetRSSFeed?rssFeedId=a83209ea-c261-4f96-b65b-7dca86699fa2" htmlUrl=""/>
+      <outline text="FileHippo.com" title="FileHippo.com" type="rss" xmlUrl="http://feeds2.feedburner.com/filehippo" htmlUrl="http://filehippo.com/"/>
+      <outline text="G Suite Update Alerts" title="G Suite Update Alerts" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleAppsUpdates" htmlUrl="http://googleappsupdates.blogspot.com/"/>
+      <outline text="Gmail Blog" title="Gmail Blog" type="rss" xmlUrl="http://feeds.feedburner.com/OfficialGmailBlog" htmlUrl="http://gmailblog.blogspot.com/"/>
+      <outline text="How-To GeekDownloads – How-To Geek" title="How-To GeekDownloads – How-To Geek" type="rss" xmlUrl="http://www.howtogeek.com/reviews/feed/" htmlUrl="http://www.howtogeek.com/"/>
+      <outline text="NirBlog" title="NirBlog" type="rss" xmlUrl="http://blog.nirsoft.net/feed/" htmlUrl="http://blog.nirsoft.net/"/>
+      <outline text="Portable Freeware" title="Portable Freeware" type="rss" xmlUrl="http://feeds.feedburner.com/pfc" htmlUrl="http://www.portablefreeware.com/"/>
+      <outline text="PortableApps.com" title="PortableApps.com" type="rss" xmlUrl="http://portableapps.com/node/feed" htmlUrl="http://portableapps.com/"/>
+      <outline text="PortableAppZ" title="PortableAppZ" type="rss" xmlUrl="http://feeds2.feedburner.com/blogspot/Tmnu" htmlUrl="http://portableappz.blogspot.com/"/>
+      <outline text="vidcoder" title="vidcoder" type="rss" xmlUrl="http://vidcoder.codeplex.com/project/feeds/rss?ProjectRSSFeed=codeplex://release/vidcoder" htmlUrl="http://vidcoder.codeplex.com/releases"/>
+    </outline>
+    <outline text="05 Alerts" title="05 Alerts">
+      <outline text="Google Alert - &quot;kim meigh&quot;" title="Google Alert - &quot;kim meigh&quot;" type="rss" xmlUrl="https://www.google.com/alerts/feeds/03468289910643092146/3594841768674987830" htmlUrl="tag:google.com,2005:reader/user/03468289910643092146/state/com.google/alerts/3594841768674987830"/>
+      <outline text="Google Alert - &quot;kimberly meigh&quot;" title="Google Alert - &quot;kimberly meigh&quot;" type="rss" xmlUrl="https://www.google.com/alerts/feeds/03468289910643092146/5928734423315565022" htmlUrl="tag:google.com,2005:reader/user/03468289910643092146/state/com.google/alerts/5928734423315565022"/>
+      <outline text="Google Alert - &quot;map in a box&quot; -facepunch" title="Google Alert - &quot;map in a box&quot; -facepunch" type="rss" xmlUrl="https://www.google.com/alerts/feeds/03468289910643092146/7227317855290062568" htmlUrl="tag:google.com,2005:reader/user/03468289910643092146/state/com.google/alerts/7227317855290062568"/>
+      <outline text="Google Alert - &quot;map-in-a-box&quot; -facepunch" title="Google Alert - &quot;map-in-a-box&quot; -facepunch" type="rss" xmlUrl="https://www.google.com/alerts/feeds/03468289910643092146/14323580896820831042" htmlUrl="tag:google.com,2005:reader/user/03468289910643092146/state/com.google/alerts/14323580896820831042"/>
+      <outline text="Google Alert - &quot;Sean Loos&quot; -site:seanloos.com" title="Google Alert - &quot;Sean Loos&quot; -site:seanloos.com" type="rss" xmlUrl="https://www.google.com/alerts/feeds/03468289910643092146/8304835821705217228" htmlUrl="tag:google.com,2005:reader/user/03468289910643092146/state/com.google/alerts/8304835821705217228"/>
+      <outline text="Google Alert - loos@mappingsolutions.com" title="Google Alert - loos@mappingsolutions.com" type="rss" xmlUrl="https://www.google.com/alerts/feeds/03468289910643092146/14996061203156507943" htmlUrl="tag:google.com,2005:reader/user/03468289910643092146/state/com.google/alerts/14996061203156507943"/>
+      <outline text="Google Alert - loossean@gmail.com" title="Google Alert - loossean@gmail.com" type="rss" xmlUrl="https://www.google.com/alerts/feeds/03468289910643092146/14996061203156508021" htmlUrl="tag:google.com,2005:reader/user/03468289910643092146/state/com.google/alerts/14996061203156508021"/>
+      <outline text="Google Alert - mapperg" title="Google Alert - mapperg" type="rss" xmlUrl="https://www.google.com/alerts/feeds/03468289910643092146/14309081667112517124" htmlUrl="tag:google.com,2005:reader/user/03468289910643092146/state/com.google/alerts/14309081667112517124"/>
+      <outline text="Google Alert - mapping@mappingsolutions.com" title="Google Alert - mapping@mappingsolutions.com" type="rss" xmlUrl="https://www.google.com/alerts/feeds/03468289910643092146/6273921889277893734" htmlUrl="tag:google.com,2005:reader/user/03468289910643092146/state/com.google/alerts/6273921889277893734"/>
+      <outline text="Google Alert - mappingsolutions.com" title="Google Alert - mappingsolutions.com" type="rss" xmlUrl="https://www.google.com/alerts/feeds/03468289910643092146/10274405851959412187" htmlUrl="tag:google.com,2005:reader/user/03468289910643092146/state/com.google/alerts/10274405851959412187"/>
+    </outline>
+    <outline text="05 NewsBlur" title="05 NewsBlur">
+      <outline text="@NewsBlur statuses" title="@NewsBlur statuses" type="rss" xmlUrl="http://seanloos.com/tweetrss/?screen_name=NewsBlur" htmlUrl="http://seanloos.com/tweetrss/index.php?screen_name=NewsBlur"/>
+      <outline text="Satisfaction: NewsBlur" title="Satisfaction: NewsBlur" type="rss" xmlUrl="https://getsatisfaction.com/newsblur/topics.rss" htmlUrl="https://getsatisfaction.com/newsblur/topics?sort=recently_active"/>
+    </outline>
+    <outline text="06 Mapping" title="06 Mapping">
+      <outline text="@mapinfo statuses" title="@mapinfo statuses" type="rss" xmlUrl="http://seanloos.com/tweetrss/?screen_name=mapinfo" htmlUrl="http://seanloos.com/tweetrss/index.php?screen_name=mapinfo"/>
+      <outline text="@MapSolut statuses" title="@MapSolut statuses" type="rss" xmlUrl="http://seanloos.com/tweetrss/?screen_name=MapSolut" htmlUrl="http://seanloos.com/tweetrss/index.php?screen_name=MapSolut"/>
+      <outline text="Google Earth Blog" title="Google Earth Blog" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleEarthBlog" htmlUrl="http://www.gearthblog.com/"/>
+      <outline text="Google Geo Developers Blog" title="Google Geo Developers Blog" type="rss" xmlUrl="http://feeds.feedburner.com/GoogleGeoDevelopersBlog" htmlUrl="http://googlegeodevelopers.blogspot.com/"/>
+      <outline text="Google LatLong" title="Google LatLong" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/SbSV" htmlUrl="http://google-latlong.blogspot.com/"/>
+      <outline text="Google Maps API Premium Plan Announcements: Outages, Updates, Service Notifications" title="Google Maps API Premium Plan Announcements: Outages, Updates, Service Notifications" type="rss" xmlUrl="https://google.secure.force.com/services/xml/MapsRSS" htmlUrl="http://google.secure.force.com/services/xml/MapsRSS"/>
+      <outline text="mapinfo" title="mapinfo" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=mapinfo" htmlUrl="http://www.youtube.com/channel/UCImmWjq67UYQBU_qgi3riJg"/>
+      <outline text="Partner Communications | Pitney Bowes Software" title="Partner Communications | Pitney Bowes Software" type="rss" xmlUrl="http://www.pbinsight.com/partners/comm_i-rss" htmlUrl="http://www.pbinsight.com/partners/comm_i/"/>
+      <outline text="PB Software Blogs" title="PB Software Blogs" type="rss" xmlUrl="http://blogs.pb.com/pbsoftware/feed/" htmlUrl="http://danmark.pbbiblogs.com"/>
+      <outline text="Pitney Bowes Software My Products" title="Pitney Bowes Software My Products" type="rss" xmlUrl="http://g1.com/Support/RSS/myproducts.php?key=Q0FNUDFIV1ZOOCsxSFdWTjg=" htmlUrl="http://g1.com/Support/RSS/myproducts.php"/>
+      <outline text="Release Notes for the Google Maps Directions API" title="Release Notes for the Google Maps Directions API" type="rss" xmlUrl="https://developers.google.com/maps/documentation/directions/feeds/releases.xml" htmlUrl="https://developers.google.com/maps/documentation/directions/releases"/>
+      <outline text="Release Notes for the Google Maps Distance Matrix API" title="Release Notes for the Google Maps Distance Matrix API" type="rss" xmlUrl="https://developers.google.com/maps/documentation/distance-matrix/feeds/releases.xml" htmlUrl="https://developers.google.com/maps/documentation/distance-matrix/releases"/>
+      <outline text="Release Notes for the Google Maps JavaScript API" title="Release Notes for the Google Maps JavaScript API" type="rss" xmlUrl="https://developers.google.com/maps/documentation/javascript/feeds/releases.xml" htmlUrl="https://developers.google.com/maps/documentation/javascript/feeds/releases.xml"/>
+    </outline>
+    <outline text="07 Tech" title="07 Tech">
+      <outline text="gHacks Technology News" title="gHacks Technology News" type="rss" xmlUrl="http://www.ghacks.net/feed/" htmlUrl="http://www.ghacks.net/"/>
+      <outline text="How-To Geek" title="How-To Geek" type="rss" xmlUrl="http://feeds.howtogeek.com/howtogeek" htmlUrl="http://www.howtogeek.com"/>
+    </outline>
+    <outline text="08 Podcasts" title="08 Podcasts">
+      <outline text="5secondfilms" title="5secondfilms" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCG9lNhVqk9luFLxBKDzuO9g" htmlUrl="http://www.youtube.com/user/5secondfilms"/>
+      <outline text="Alton Brown" title="Alton Brown" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfDNi1aEljAQ17mUrfUjkvg" htmlUrl="http://www.youtube.com/channel/UCfDNi1aEljAQ17mUrfUjkvg"/>
+      <outline text="AsapSCIENCE" title="AsapSCIENCE" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC552Sd-3nyi_tk2BudLUzA" htmlUrl="http://www.youtube.com/user/AsapSCIENCE"/>
+      <outline text="billyonthestreettv" title="billyonthestreettv" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCc81WI54KgJoei06f_3mWgQ" htmlUrl="http://www.youtube.com/user/billyonthestreettv"/>
+      <outline text="BoredShortsTV" title="BoredShortsTV" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWiyGLXnnRLbHQjICxph3Bw" htmlUrl="http://www.youtube.com/channel/UCWiyGLXnnRLbHQjICxph3Bw"/>
+      <outline text="Casually Explained" title="Casually Explained" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCr3cBLTYmIK9kY0F_OdFWFQ" htmlUrl="http://www.youtube.com/channel/UCr3cBLTYmIK9kY0F_OdFWFQ"/>
+      <outline text="CGP Grey" title="CGP Grey" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w" htmlUrl="http://www.youtube.com/user/CGPGrey"/>
+      <outline text="colinfurze" title="colinfurze" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCp68_FLety0O-n9QU6phsgw" htmlUrl="http://www.youtube.com/user/colinfurze"/>
+      <outline text="Computerphile" title="Computerphile" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" htmlUrl="http://www.youtube.com/user/Computerphile"/>
+      <outline text="Cutting Room" title="Cutting Room" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClONLF11huWxcf16xBOkOrA" htmlUrl="http://www.youtube.com/channel/UClONLF11huWxcf16xBOkOrA"/>
+      <outline text="exurb1a" title="exurb1a" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCimiUgDLbi6P17BdaCZpVbg" htmlUrl="http://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg"/>
+      <outline text="homestarrunnerdotcom" title="homestarrunnerdotcom" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMkbjxvwur30YrFWw8kpSaw" htmlUrl="http://www.youtube.com/user/homestarrunnerdotcom"/>
+      <outline text="Katering" title="Katering" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCGc8JKl5EvE8IjZ_qprNcQ" htmlUrl="http://www.youtube.com/user/LeadBalloonTV"/>
+      <outline text="Mental Floss" title="Mental Floss" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpZ5qUqpW4hW4zdfuBxMSJA" htmlUrl="http://www.youtube.com/user/MentalFlossVideo"/>
+      <outline text="MyHarto" title="MyHarto" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJQL1Fai-9GlVunsbP4x8Pg" htmlUrl="http://www.youtube.com/user/MyHarto"/>
+      <outline text="Not So Pure Michigan | RSS Feed" title="Not So Pure Michigan | RSS Feed" type="rss" xmlUrl="http://www.notsopuremichigan.com/?feed=rss2" htmlUrl="http://www.notsopuremichigan.com/"/>
+      <outline text="Numberphile" title="Numberphile" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A" htmlUrl="http://www.youtube.com/user/numberphile"/>
+      <outline text="ParryGripp" title="ParryGripp" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLNfsUeQm6zU2eBlQbEy4tw" htmlUrl="http://www.youtube.com/user/ParryGripp"/>
+      <outline text="PomplamooseMusic" title="PomplamooseMusic" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSiPjfAJBgbFlIUsxOWpK0w" htmlUrl="http://www.youtube.com/user/PomplamooseMusic"/>
+      <outline text="Reactions" title="Reactions" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdJ9oJ2GUF8Vmb-G63ldGWg" htmlUrl="http://www.youtube.com/user/ACSReactions"/>
+      <outline text="scishow" title="scishow" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow" htmlUrl="http://www.youtube.com/user/scishow"/>
+      <outline text="Simone Giertz" title="Simone Giertz" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3KEoMzNz8eYnwBC34RaKCQ" htmlUrl="http://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ"/>
+      <outline text="SmarterEveryDay" title="SmarterEveryDay" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA" htmlUrl="http://www.youtube.com/user/destinws2"/>
+      <outline text="Tilted Kilt - Talk Flirty to Me" title="Tilted Kilt - Talk Flirty to Me" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9SuiIyTYjN0NLBxdEe2lJQ" htmlUrl="http://www.youtube.com/channel/UC9SuiIyTYjN0NLBxdEe2lJQ"/>
+      <outline text="Tom Scott" title="Tom Scott" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A" htmlUrl="http://www.youtube.com/user/enyay"/>
+      <outline text="Vihart" title="Vihart" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOGeU-1Fig3rrDjhm9Zs_wg" htmlUrl="http://www.youtube.com/user/Vihart"/>
+      <outline text="vlogbrothers" title="vlogbrothers" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGaVdbSav8xWuFWTadK6loA" htmlUrl="http://www.youtube.com/user/vlogbrothers"/>
+      <outline text="You Suck At Cooking" title="You Suck At Cooking" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCekQr9znsk2vWxBo3YiLq2w" htmlUrl="http://www.youtube.com/channel/UCekQr9znsk2vWxBo3YiLq2w"/>
+    </outline>
+    <outline text="09 Videos" title="09 Videos">
+      <outline text="ThingsThatBlowUp" title="ThingsThatBlowUp" type="rss" xmlUrl="http://www.reddit.com/r/ThingsThatBlowUp.rss" htmlUrl="https://www.reddit.com/r/ThingsThatBlowUp"/>
+      <outline text="videos" title="videos" type="rss" xmlUrl="http://www.reddit.com/r/videos/.rss" htmlUrl="http://www.reddit.com/r/videos/"/>
+    </outline>
+    <outline text="10 Humor" title="10 Humor">
+      <outline text="A Softer World" title="A Softer World" type="rss" xmlUrl="http://www.asofterworld.com/rssfeed.php" htmlUrl="http://www.asofterworld.com/"/>
+      <outline text="Explosm.net" title="Explosm.net" type="rss" xmlUrl="https://explosm-1311.appspot.com/" htmlUrl="http://www.explosm.net/rss.php"/>
+      <outline text="Fake Science" title="Fake Science" type="rss" xmlUrl="http://feeds.feedburner.com/fakesciencerss" htmlUrl="http://fakescience.tumblr.com/"/>
+      <outline text="Hedger Humor" title="Hedger Humor" type="rss" xmlUrl="https://adriennehedgerblog.wordpress.com/feed/" htmlUrl="https://adriennehedgerblog.wordpress.com/"/>
+      <outline text="Lunarbaboon" title="Lunarbaboon" type="rss" xmlUrl="http://www.lunarbaboon.com/comics/rss.xml" htmlUrl="http://www.lunarbaboon.com/comics/"/>
+      <outline text="Parenting" title="Parenting" type="rss" xmlUrl="http://feeds.feedburner.com/ParentingFails" htmlUrl="http://failblog.cheezburger.com/parenting"/>
+      <outline text="Puns" title="Puns" type="rss" xmlUrl="http://feeds.feedburner.com/SoMuchPun" htmlUrl="http://memebase.cheezburger.com/puns"/>
+      <outline text="Sarah's&#10;Scribbles" title="Sarah's&#10;Scribbles" type="rss" xmlUrl="http://sarahcandersen.com/rss" htmlUrl="http://sarahcandersen.com/"/>
+      <outline text="SMBC + Bonus Drawing" title="SMBC + Bonus Drawing" type="rss" xmlUrl="http://smbc-rss-plus.mindflakes.com/rss.xml" htmlUrl="http://smbc-rss-plus.mindflakes.com/"/>
+      <outline text="The Adventures of Business Cat" title="The Adventures of Business Cat" type="rss" xmlUrl="http://www.businesscat.happyjar.com/feed/" htmlUrl="http://www.businesscat.happyjar.com/"/>
+      <outline text="The Brads - A Comic About Web Design" title="The Brads - A Comic About Web Design" type="rss" xmlUrl="http://feeds2.feedburner.com/thebrads" htmlUrl="http://bradcolbow.com/"/>
+      <outline text="The Gentlemans Armchair" title="The Gentlemans Armchair" type="rss" xmlUrl="http://feeds.feedburner.com/TheGentlemansArmchair" htmlUrl="http://thegentlemansarmchair.com/"/>
+      <outline text="The Perry Bible Fellowship" title="The Perry Bible Fellowship" type="rss" xmlUrl="http://www.pbfcomics.com/feed/feed.xml" htmlUrl="http://www.pbfcomics.com/feed/feed.xml"/>
+      <outline text="Three Word Phrase" title="Three Word Phrase" type="rss" xmlUrl="http://www.threewordphrase.com/rss.xml" htmlUrl="http://www.threewordphrase.com/"/>
+      <outline text="TL;DR Wikipedia" title="TL;DR Wikipedia" type="rss" xmlUrl="http://tldrwikipedia.tumblr.com/rss" htmlUrl="http://tldrwikipedia.tumblr.com/"/>
+      <outline text="webcomic name" title="webcomic name" type="rss" xmlUrl="http://webcomicname.tumblr.com/rss" htmlUrl="http://webcomicname.tumblr.com/"/>
+      <outline text="xkcd.com" title="xkcd.com" type="rss" xmlUrl="http://www.xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+    </outline>
+    <outline text="11 UFC" title="11 UFC">
+      <outline text="MMAmania.com" title="MMAmania.com" type="rss" xmlUrl="http://feeds.feedburner.com/sportsblogs/mmamania.xml" htmlUrl="http://www.mmamania.com/"/>
+    </outline>
+    <outline text="14 gw" title="14 gw">
+      <outline text="Blowjob Gifs" title="Blowjob Gifs" type="rss" xmlUrl="http://www.reddit.com/r/BlowjobGifs/.rss" htmlUrl="http://www.reddit.com/r/BlowjobGifs/"/>
+      <outline text="Blowjobs" title="Blowjobs" type="rss" xmlUrl="http://www.reddit.com/r/Blowjobs/.rss" htmlUrl="http://www.reddit.com/r/Blowjobs/"/>
+      <outline text="Bustiers, corsets and basques" title="Bustiers, corsets and basques" type="rss" xmlUrl="http://www.reddit.com/r/bustier/.rss" htmlUrl="https://www.reddit.com/r/bustier/"/>
+      <outline text="cumsluts" title="cumsluts" type="rss" xmlUrl="http://www.reddit.com/r/cumsluts/.rss" htmlUrl="http://www.reddit.com/r/cumsluts/"/>
+      <outline text="Girls in Handcuffs" title="Girls in Handcuffs" type="rss" xmlUrl="http://www.reddit.com/r/Cuffed/.rss" htmlUrl="https://www.reddit.com/r/Cuffed/"/>
+      <outline text="Girls In Plaid Skirts" title="Girls In Plaid Skirts" type="rss" xmlUrl="http://www.reddit.com/r/girlsinplaidskirts.rss" htmlUrl="https://www.reddit.com/r/girlsinplaidskirts"/>
+      <outline text="GirlsFinishingTheJob" title="GirlsFinishingTheJob" type="rss" xmlUrl="http://www.reddit.com/r/GirlsFinishingTheJob/.rss" htmlUrl="http://www.reddit.com/r/GirlsFinishingTheJob/"/>
+      <outline text="GirlsinSchoolUniforms" title="GirlsinSchoolUniforms" type="rss" xmlUrl="http://www.reddit.com/r/GirlsinSchoolUniforms/.rss" htmlUrl="http://www.reddit.com/r/GirlsinSchoolUniforms/"/>
+      <outline text="GirlsinStripedSocks" title="GirlsinStripedSocks" type="rss" xmlUrl="http://www.reddit.com/r/GirlsinStripedSocks/.rss" htmlUrl="https://www.reddit.com/r/GirlsinStripedSocks/"/>
+      <outline text="Redheads - The gifs that keep on giving" title="Redheads - The gifs that keep on giving" type="rss" xmlUrl="https://www.reddit.com/r/redheadgifs/.rss" htmlUrl="https://www.reddit.com/r/redheadgifs/"/>
+      <outline text="schoolgirlsgonewild" title="schoolgirlsgonewild" type="rss" xmlUrl="https://www.reddit.com/r/schoolgirlsgonewild/.rss" htmlUrl="https://www.reddit.com/r/schoolgirlsgonewild/"/>
+      <outline text="Sexy Uniforms" title="Sexy Uniforms" type="rss" xmlUrl="https://www.reddit.com/r/sexyuniforms/.rss" htmlUrl="https://www.reddit.com/r/sexyuniforms/"/>
+      <outline text="Slutty Halloween Costumes!" title="Slutty Halloween Costumes!" type="rss" xmlUrl="http://www.reddit.com/r/SluttyHalloween/.rss" htmlUrl="https://www.reddit.com/r/SluttyHalloween/"/>
+      <outline text="Xsome - Threesomes, Foursomes, Fivesomes, more." title="Xsome - Threesomes, Foursomes, Fivesomes, more." type="rss" xmlUrl="http://www.reddit.com/r/xsome/.rss" htmlUrl="https://www.reddit.com/r/xsome/"/>
+      <outline text="[NSFW] Collared, Chokered, or Leashed Pics" title="[NSFW] Collared, Chokered, or Leashed Pics" type="rss" xmlUrl="http://www.reddit.com/r/collared.rss" htmlUrl="https://www.reddit.com/r/collared"/>
+    </outline>
+    <outline text="15 GW" title="15 GW">
+      <outline text="gonewild" title="gonewild" type="rss" xmlUrl="http://www.reddit.com/r/gonewild/.rss" htmlUrl="http://www.reddit.com/r/gonewild/"/>
+      <outline text="natural_red" title="natural_red" type="rss" xmlUrl="https://www.reddit.com/r/natural_red/.rss" htmlUrl="https://www.reddit.com/r/natural_red/"/>
+      <outline text="PrincessPixie87" title="PrincessPixie87" type="rss" xmlUrl="https://www.reddit.com/r/PrincessPixie/.rss" htmlUrl="https://www.reddit.com/r/PrincessPixie/"/>
+    </outline>
+  </body>
+</opml>

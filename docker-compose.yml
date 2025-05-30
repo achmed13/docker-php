@@ -1,0 +1,73 @@
+---
+services:
+  server:
+    container_name: php
+    build:
+      context: .
+    ports:
+    - 9003:80
+    depends_on:
+      db:
+        condition: service_healthy
+    secrets:
+    - db-password
+    environment:
+    - PASSWORD_FILE_PATH=/run/secrets/db-password
+    - DB_HOST=db
+    - DB_NAME=example
+    - DB_USER=root
+    volumes:
+      - ./ftp/cam:/var/www/html/cam
+      - ./www:/var/www/html
+      - /media/music/albums:/var/www/html/music
+    develop:
+      watch:
+      - action: sync
+        path: ./src
+        target: /var/www/html
+  db:
+    image: mariadb
+    container_name: mariadb
+    restart: always
+    user: root
+    secrets:
+    - db-password
+    volumes:
+    - ./db-data:/var/lib/mysql
+    environment:
+    - MARIADB_ROOT_PASSWORD_FILE=/run/secrets/db-password
+    - MARIADB_DATABASE=example
+    expose:
+    - 3306
+    ports:
+    - 3307:3306
+    healthcheck:
+      test:
+      - CMD
+      - /usr/local/bin/healthcheck.sh
+      - '--su-mysql'
+      - '--connect'
+      - '--innodb_initialized'
+      interval: 10s
+      timeout: 5s
+      retries: 5
+  ftp-server:
+    container_name: ftp-server
+    environment:
+    - PUBLIC_IP=10.0.0.3
+    - FTP_PASS=P0nydog1
+    - FTP_USER=achmed13
+    image: garethflowers/ftp-server
+    ports:
+    - 20-21:20-21/tcp
+    - 40000-40009:40000-40009/tcp
+    volumes:
+    - ./ftp:/home/achmed13
+
+secrets:
+  db-password:
+    file: db-password.txt
+networks:
+  default:
+    external: true
+    name: 'loossean'

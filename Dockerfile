@@ -15,7 +15,7 @@ RUN --mount=type=bind,source=./composer.json,target=composer.json \
     composer install --no-interaction
 
 FROM php:8.2-apache AS base
-RUN docker-php-ext-install pdo pdo_mysql
+RUN docker-php-ext-install pdo pdo_mysql mysqli
 COPY ./src /var/www/html
 
 FROM base AS development

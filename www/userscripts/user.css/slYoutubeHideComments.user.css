@@ -1,0 +1,39 @@
+/* ==UserStyle==
+@name           slYoutubeHideComments
+@version        2020.4.2-2030
+@namespace      seanloos.com
+@author         Sean Loos
+@homepageURL    http://seanloos.com/userscripts/
+==/UserStyle== */
+@-moz-document domain("youtube.com") {
+	/* 	#comments,
+	#watch-discussion {
+		display: none !important;
+	}
+	#player-theater-container,   video  {
+		height: 75vh !important;
+		max-height: unset !important;
+		max-width: unset !important;
+	}
+
+	.ytp-chrome-bottom {
+		width: 70% !important;
+		left: 0 !important;
+		margin-left: 15% !important;
+	} */
+	#comments,#watch-discussion {
+		display: none !important;
+	}
+
+	html[youtube-version="new"][page="video"]:not([improvedtube-player-size="undefined"]):not([improvedtube-player-size="normal"]):not([embed]):not([mini-player]) ytd-app:not([player-fullscreen_]) ytd-watch-flexy:not([fullscreen])[theater] #player-theater-container,
+	html[youtube-version="new"][page="video"]:not([improvedtube-player-size="undefined"]):not([improvedtube-player-size="normal"]):not([embed]):not([mini-player]) ytd-app:not([player-fullscreen_]) ytd-watch-flexy:not([fullscreen]) #player-container,
+	html[youtube-version="new"][page="video"]:not([improvedtube-player-size="undefined"]):not([improvedtube-player-size="normal"]):not([embed]):not([mini-player]) ytd-app:not([player-fullscreen_]) ytd-watch-flexy:not([fullscreen]) .html5-video-player,
+	html[youtube-version="new"][page="video"]:not([improvedtube-player-size="undefined"]):not([improvedtube-player-size="normal"]):not([embed]):not([mini-player]) ytd-app:not([player-fullscreen_]) ytd-watch-flexy:not([fullscreen]) .html5-video-player video,
+	html[youtube-version="new"][page="video"]:not([improvedtube-player-size="undefined"]):not([improvedtube-player-size="normal"]):not([embed]):not([mini-player]) #player.skeleton #player-api,
+	html[youtube-version="new"][page="video"]:not([improvedtube-player-size="undefined"]):not([improvedtube-player-size="normal"]):not([embed]):not([mini-player]) #player.skeleton .html5-video-player video {
+		height: 75vh !important;
+		max-height: unset !important;
+		max-width: unset !important;
+		width: auto !important;
+	}
+}
