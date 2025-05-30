@@ -3,7 +3,6 @@ services:
     container_name: php
     build:
       context: .
-      target: development
     ports:
       - 9000:80
     depends_on:
@@ -35,6 +34,8 @@ services:
       - MARIADB_DATABASE=example
     expose:
       - 3306
+    ports:
+      - 3307:3306
     healthcheck:
       test:
         [
@@ -47,15 +48,6 @@ services:
       interval: 10s
       timeout: 5s
       retries: 5
-  phpmyadmin:
-    image: phpmyadmin
-    container_name: phpmyadmin
-    ports:
-      - 9080:80
-    depends_on:
-      - db
-    environment:
-      - PMA_HOST=db
 secrets:
   db-password:
-    file: db/password.txt
+    file: db-password.txt
